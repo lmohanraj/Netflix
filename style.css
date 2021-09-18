@@ -1,0 +1,76 @@
+.section1{
+    background : url("https://files.oyebesmartest.com/uploads/large/11552564144wswgy9cmrleummv7b3vlebfyn34h1rcrzstgpvqyjq3vezcegfsmj2tnm8lhwscpaat0fh2uq5uscrn00rysnlh5ykw3avg5bxpz.jpg") no-repeat center center fixed;
+    background-size: cover ;
+    background-blend-mode:darken;
+    padding-bottom: 100px;
+    padding-top: 0px;
+  }
+  body{
+      margin: 0px;
+  }
+  header{
+    display : flex;
+    justify-content : space-between;
+    padding : 30px;
+    font-size: 20px;
+    align-items: center;
+    padding-top: 5px;
+  }
+  .h1{
+      font-size: 50px;
+      color: #e50914;
+      font-weight: bold;
+  }
+ button{
+     height: 40px;
+     width: 80px;
+     font-size: 1.2rem;
+     color: white;
+     background-color: #e50914;
+     border: none;
+     border-radius: 5px;
+ } 
+ .getStarted{
+     width: 120px;
+     font-size: 1rem;
+     border-radius: 0px 5px 5px 0px;
+ }
+ section{
+     color: #e50914;
+     align-items: center;
+     text-align: center;
+     padding-top: 20px;
+     font-weight: bold;
+ }
+ p{
+     margin: 20px;
+     /* line-height: 100%; */
+ }
+ input{
+     margin-top: 0px;
+     margin-bottom: 20px;
+     height: 40px;
+     border-radius: 5px;
+     width: 300px;
+     border: none;
+     padding-left: 10px;
+     border-radius: 5px 0px 0px 5px;
+ }
+ .input{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: nowrap;
+ }
+.line1{
+    font-size: 50px;
+}
+.line2{
+    font-size: 30px;
+}
+.line3{
+    font-size: 20px;
+    font-weight: normal;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
